@@ -1,0 +1,35 @@
+body {
+    background-color: $main_bg;
+    color: $white;
+}
+
+.logo {
+    width: 100px;
+}
+
+section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.btn-cyan {
+    background-color: $cyan;
+}
+
+.lnr {
+    display: inline-block;
+    fill: $cyan;
+    width: 2em;
+    height: 2em;
+    vertical-align: -0.05em;
+    stroke-width: 1;
+}
+
+.services-icon {
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.bg-quotes {
+    background-color: $quotes;
+}
